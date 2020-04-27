@@ -1,2 +1,0 @@
-# sacredlands
-Minecraft mod
