@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":  "sacredlands:block/sacred_land_left"
+    }
+  }
+}
